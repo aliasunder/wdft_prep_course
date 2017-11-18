@@ -19,9 +19,9 @@ on each line, the resulting shape of the printed out hash characters is a triang
 // Write your solution below
 function isEven(number) {
   if (number % 2 == 0)
-  console.log('the number is even!')
+  console.log('the number is even!');
   else 
-    console.log('the number is odd!')
+    console.log('the number is odd!');
 }
 
 /* 
