@@ -1,1 +1,27 @@
+body{
+    font-family: Cambria, Georgia, serif;
+	font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+}
 
+
+h1, h2{
+    text-align: center;
+    margin:0.5em;
+    padding:0;
+}
+
+hr{
+    height:3px;
+    color: black;
+    background-color: black;
+    border: 0;
+}
+p, .bold{
+    font-weight:bold;
+}
+
+.italics{
+    font-style: italic;
+}
